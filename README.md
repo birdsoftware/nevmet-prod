@@ -1,5 +1,6 @@
 # nevmet
 
+This is all the source code and the production code under ..nevmet\build\web
 A new Flutter project.
 
 ## Golden Tests
