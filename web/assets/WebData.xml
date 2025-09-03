@@ -1,0 +1,884 @@
+<webdata>
+  <stations>
+    <station name="Aliante">
+      <reports>
+        <report name="weekly Battery Voltage">
+          <page_image>Aliante/weekly Battery Voltage.jpg</page_image>
+          <graph>Aliante/weekly Battery Voltage_graph.jpg</graph>
+          <web_page>Aliante/weekly Battery Voltage.htm</web_page>
+        </report>
+        <report name="weekly Enclosure RH">
+          <page_image>Aliante/weekly Enclosure RH.jpg</page_image>
+          <graph>Aliante/weekly Enclosure RH_graph.jpg</graph>
+          <web_page>Aliante/weekly Enclosure RH.htm</web_page>
+        </report>
+        <report name="weekly Air Temperature">
+          <page_image>Aliante/weekly Air Temperature.jpg</page_image>
+          <graph>Aliante/weekly Air Temperature_graph.jpg</graph>
+          <web_page>Aliante/weekly Air Temperature.htm</web_page>
+        </report>
+        <report name="weekly Solar Radiation">
+          <page_image>Aliante/weekly Solar Radiation.jpg</page_image>
+          <graph>Aliante/weekly Solar Radiation_graph.jpg</graph>
+          <web_page>Aliante/weekly Solar Radiation.htm</web_page>
+        </report>
+        <report name="weekly Relative Humidity">
+          <page_image>Aliante/weekly Relative Humidity.jpg</page_image>
+          <graph>Aliante/weekly Relative Humidity_graph.jpg</graph>
+          <web_page>Aliante/weekly Relative Humidity.htm</web_page>
+        </report>
+        <report name="weekly Rain Fall">
+          <page_image>Aliante/weekly Rain Fall.jpg</page_image>
+          <graph>Aliante/weekly Rain Fall_graph.jpg</graph>
+          <web_page>Aliante/weekly Rain Fall.htm</web_page>
+        </report>
+        <report name="weekly Wind Speed">
+          <page_image>Aliante/weekly Wind Speed.jpg</page_image>
+          <graph>Aliante/weekly Wind Speed_graph.jpg</graph>
+          <web_page>Aliante/weekly Wind Speed.htm</web_page>
+        </report>
+        <report name="weekly Wind Rose">
+          <page_image>Aliante/weekly Wind Rose.jpg</page_image>
+          <graph>Aliante/weekly Wind Rose_graph.jpg</graph>
+          <web_page>Aliante/weekly Wind Rose.htm</web_page>
+        </report>
+        <report name="weekly Evapotranspiration">
+          <page_image>Aliante/weekly Evapotranspiration.jpg</page_image>
+          <graph>Aliante/weekly Evapotranspiration_graph.jpg</graph>
+          <web_page>Aliante/weekly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="weekly Crop Water Needs">
+          <page_image>Aliante/weekly Crop Water Needs.jpg</page_image>
+          <graph>Aliante/weekly Crop Water Needs_graph.jpg</graph>
+          <web_page>Aliante/weekly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="weekly GDD">
+          <page_image>Aliante/weekly GDD.jpg</page_image>
+          <graph>Aliante/weekly GDD_graph.jpg</graph>
+          <web_page>Aliante/weekly GDD.htm</web_page>
+        </report>
+        <report name="weekly GDD2">
+          <page_image>Aliante/weekly GDD2.jpg</page_image>
+          <graph>Aliante/weekly GDD2_graph.jpg</graph>
+          <web_page>Aliante/weekly GDD2.htm</web_page>
+        </report>
+        <report name="weekly Dew Point">
+          <page_image>Aliante/weekly Dew Point.jpg</page_image>
+          <graph>Aliante/weekly Dew Point_graph.jpg</graph>
+          <web_page>Aliante/weekly Dew Point.htm</web_page>
+        </report>
+        <report name="weekly Chill Hours">
+          <page_image>Aliante/weekly Chill Hours.jpg</page_image>
+          <graph>Aliante/weekly Chill Hours_graph.jpg</graph>
+          <web_page>Aliante/weekly Chill Hours.htm</web_page>
+        </report>
+        <report name="weekly Wind Chill">
+          <page_image>Aliante/weekly Wind Chill.jpg</page_image>
+          <graph>Aliante/weekly Wind Chill_graph.jpg</graph>
+          <web_page>Aliante/weekly Wind Chill.htm</web_page>
+        </report>
+        <report name="weekly Heat Index">
+          <page_image>Aliante/weekly Heat Index.jpg</page_image>
+          <graph>Aliante/weekly Heat Index_graph.jpg</graph>
+          <web_page>Aliante/weekly Heat Index.htm</web_page>
+        </report>
+        <report name="monthly Battery Voltage">
+          <page_image>Aliante/monthly Battery Voltage.jpg</page_image>
+          <page_image>Aliante/monthly Battery Voltage_pg2.jpg</page_image>
+          <graph>Aliante/monthly Battery Voltage_graph.jpg</graph>
+          <web_page>Aliante/monthly Battery Voltage.htm</web_page>
+        </report>
+        <report name="monthly Enclosure RH">
+          <page_image>Aliante/monthly Enclosure RH.jpg</page_image>
+          <page_image>Aliante/monthly Enclosure RH_pg2.jpg</page_image>
+          <graph>Aliante/monthly Enclosure RH_graph.jpg</graph>
+          <web_page>Aliante/monthly Enclosure RH.htm</web_page>
+        </report>
+        <report name="monthly Air Temperature">
+          <page_image>Aliante/monthly Air Temperature.jpg</page_image>
+          <page_image>Aliante/monthly Air Temperature_pg2.jpg</page_image>
+          <graph>Aliante/monthly Air Temperature_graph.jpg</graph>
+          <web_page>Aliante/monthly Air Temperature.htm</web_page>
+        </report>
+        <report name="monthly Solar Radiation">
+          <page_image>Aliante/monthly Solar Radiation.jpg</page_image>
+          <page_image>Aliante/monthly Solar Radiation_pg2.jpg</page_image>
+          <graph>Aliante/monthly Solar Radiation_graph.jpg</graph>
+          <web_page>Aliante/monthly Solar Radiation.htm</web_page>
+        </report>
+        <report name="monthly Relative Humidity">
+          <page_image>Aliante/monthly Relative Humidity.jpg</page_image>
+          <page_image>Aliante/monthly Relative Humidity_pg2.jpg</page_image>
+          <graph>Aliante/monthly Relative Humidity_graph.jpg</graph>
+          <web_page>Aliante/monthly Relative Humidity.htm</web_page>
+        </report>
+        <report name="monthly Rain Fall">
+          <page_image>Aliante/monthly Rain Fall.jpg</page_image>
+          <page_image>Aliante/monthly Rain Fall_pg2.jpg</page_image>
+          <graph>Aliante/monthly Rain Fall_graph.jpg</graph>
+          <web_page>Aliante/monthly Rain Fall.htm</web_page>
+        </report>
+        <report name="monthly Wind Speed">
+          <page_image>Aliante/monthly Wind Speed.jpg</page_image>
+          <page_image>Aliante/monthly Wind Speed_pg2.jpg</page_image>
+          <graph>Aliante/monthly Wind Speed_graph.jpg</graph>
+          <web_page>Aliante/monthly Wind Speed.htm</web_page>
+        </report>
+        <report name="monthly Wind Rose">
+          <page_image>Aliante/monthly Wind Rose.jpg</page_image>
+          <graph>Aliante/monthly Wind Rose_graph.jpg</graph>
+          <web_page>Aliante/monthly Wind Rose.htm</web_page>
+        </report>
+        <report name="monthly Evapotranspiration">
+          <page_image>Aliante/monthly Evapotranspiration.jpg</page_image>
+          <page_image>Aliante/monthly Evapotranspiration_pg2.jpg</page_image>
+          <graph>Aliante/monthly Evapotranspiration_graph.jpg</graph>
+          <web_page>Aliante/monthly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="monthly Crop Water Needs">
+          <page_image>Aliante/monthly Crop Water Needs.jpg</page_image>
+          <page_image>Aliante/monthly Crop Water Needs_pg2.jpg</page_image>
+          <graph>Aliante/monthly Crop Water Needs_graph.jpg</graph>
+          <web_page>Aliante/monthly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="monthly GDD">
+          <page_image>Aliante/monthly GDD.jpg</page_image>
+          <graph>Aliante/monthly GDD_graph.jpg</graph>
+          <web_page>Aliante/monthly GDD.htm</web_page>
+        </report>
+        <report name="monthly GDD2">
+          <page_image>Aliante/monthly GDD2.jpg</page_image>
+          <graph>Aliante/monthly GDD2_graph.jpg</graph>
+          <web_page>Aliante/monthly GDD2.htm</web_page>
+        </report>
+        <report name="monthly Dew Point">
+          <page_image>Aliante/monthly Dew Point.jpg</page_image>
+          <page_image>Aliante/monthly Dew Point_pg2.jpg</page_image>
+          <graph>Aliante/monthly Dew Point_graph.jpg</graph>
+          <web_page>Aliante/monthly Dew Point.htm</web_page>
+        </report>
+        <report name="monthly Chill Hours">
+          <page_image>Aliante/monthly Chill Hours.jpg</page_image>
+          <graph>Aliante/monthly Chill Hours_graph.jpg</graph>
+          <web_page>Aliante/monthly Chill Hours.htm</web_page>
+        </report>
+        <report name="monthly Wind Chill">
+          <page_image>Aliante/monthly Wind Chill.jpg</page_image>
+          <page_image>Aliante/monthly Wind Chill_pg2.jpg</page_image>
+          <graph>Aliante/monthly Wind Chill_graph.jpg</graph>
+          <web_page>Aliante/monthly Wind Chill.htm</web_page>
+        </report>
+        <report name="monthly Heat Index">
+          <page_image>Aliante/monthly Heat Index.jpg</page_image>
+          <page_image>Aliante/monthly Heat Index_pg2.jpg</page_image>
+          <graph>Aliante/monthly Heat Index_graph.jpg</graph>
+          <web_page>Aliante/monthly Heat Index.htm</web_page>
+        </report>
+      </reports>
+    </station>
+    <station name="Center">
+      <reports>
+        <report name="center_weekly Battery Voltage">
+          <page_image>Center/center_weekly Battery Voltage.jpg</page_image>
+          <graph>Center/center_weekly Battery Voltage_graph.jpg</graph>
+          <web_page>Center/center_weekly Battery Voltage.htm</web_page>
+        </report>
+        <report name="center_weekly Enclosure RH">
+          <page_image>Center/center_weekly Enclosure RH.jpg</page_image>
+          <graph>Center/center_weekly Enclosure RH_graph.jpg</graph>
+          <web_page>Center/center_weekly Enclosure RH.htm</web_page>
+        </report>
+        <report name="center_weekly Air Temperature">
+          <page_image>Center/center_weekly Air Temperature.jpg</page_image>
+          <graph>Center/center_weekly Air Temperature_graph.jpg</graph>
+          <web_page>Center/center_weekly Air Temperature.htm</web_page>
+        </report>
+        <report name="center_weekly Solar Radiation">
+          <page_image>Center/center_weekly Solar Radiation.jpg</page_image>
+          <graph>Center/center_weekly Solar Radiation_graph.jpg</graph>
+          <web_page>Center/center_weekly Solar Radiation.htm</web_page>
+        </report>
+        <report name="center_weekly Relative Humidity">
+          <page_image>Center/center_weekly Relative Humidity.jpg</page_image>
+          <graph>Center/center_weekly Relative Humidity_graph.jpg</graph>
+          <web_page>Center/center_weekly Relative Humidity.htm</web_page>
+        </report>
+        <report name="center_weekly Rain Fall">
+          <page_image>Center/center_weekly Rain Fall.jpg</page_image>
+          <graph>Center/center_weekly Rain Fall_graph.jpg</graph>
+          <web_page>Center/center_weekly Rain Fall.htm</web_page>
+        </report>
+        <report name="center_weekly Wind Speed">
+          <page_image>Center/center_weekly Wind Speed.jpg</page_image>
+          <graph>Center/center_weekly Wind Speed_graph.jpg</graph>
+          <web_page>Center/center_weekly Wind Speed.htm</web_page>
+        </report>
+        <report name="center_weekly Wind Rose">
+          <page_image>Center/center_weekly Wind Rose.jpg</page_image>
+          <graph>Center/center_weekly Wind Rose_graph.jpg</graph>
+          <web_page>Center/center_weekly Wind Rose.htm</web_page>
+        </report>
+        <report name="center_weekly Evapotranspiration">
+          <page_image>Center/center_weekly Evapotranspiration.jpg</page_image>
+          <graph>Center/center_weekly Evapotranspiration_graph.jpg</graph>
+          <web_page>Center/center_weekly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="center_weekly Crop Water Needs">
+          <page_image>Center/center_weekly Crop Water Needs.jpg</page_image>
+          <graph>Center/center_weekly Crop Water Needs_graph.jpg</graph>
+          <web_page>Center/center_weekly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="center_weekly GDD">
+          <page_image>Center/center_weekly GDD.jpg</page_image>
+          <graph>Center/center_weekly GDD_graph.jpg</graph>
+          <web_page>Center/center_weekly GDD.htm</web_page>
+        </report>
+        <report name="center_weekly GDD2">
+          <page_image>Center/center_weekly GDD2.jpg</page_image>
+          <graph>Center/center_weekly GDD2_graph.jpg</graph>
+          <web_page>Center/center_weekly GDD2.htm</web_page>
+        </report>
+        <report name="center_weekly Dew Point">
+          <page_image>Center/center_weekly Dew Point.jpg</page_image>
+          <graph>Center/center_weekly Dew Point_graph.jpg</graph>
+          <web_page>Center/center_weekly Dew Point.htm</web_page>
+        </report>
+        <report name="center_weekly Chill Hours">
+          <page_image>Center/center_weekly Chill Hours.jpg</page_image>
+          <graph>Center/center_weekly Chill Hours_graph.jpg</graph>
+          <web_page>Center/center_weekly Chill Hours.htm</web_page>
+        </report>
+        <report name="center_weekly Wind Chill">
+          <page_image>Center/center_weekly Wind Chill.jpg</page_image>
+          <graph>Center/center_weekly Wind Chill_graph.jpg</graph>
+          <web_page>Center/center_weekly Wind Chill.htm</web_page>
+        </report>
+        <report name="center_weekly Heat Index">
+          <page_image>Center/center_weekly Heat Index.jpg</page_image>
+          <graph>Center/center_weekly Heat Index_graph.jpg</graph>
+          <web_page>Center/center_weekly Heat Index.htm</web_page>
+        </report>
+        <report name="center_monthly Battery Voltage">
+          <page_image>Center/center_monthly Battery Voltage.jpg</page_image>
+          <page_image>Center/center_monthly Battery Voltage_pg2.jpg</page_image>
+          <graph>Center/center_monthly Battery Voltage_graph.jpg</graph>
+          <web_page>Center/center_monthly Battery Voltage.htm</web_page>
+        </report>
+        <report name="center_monthly Enclosure RH">
+          <page_image>Center/center_monthly Enclosure RH.jpg</page_image>
+          <page_image>Center/center_monthly Enclosure RH_pg2.jpg</page_image>
+          <graph>Center/center_monthly Enclosure RH_graph.jpg</graph>
+          <web_page>Center/center_monthly Enclosure RH.htm</web_page>
+        </report>
+        <report name="center_monthly Air Temperature">
+          <page_image>Center/center_monthly Air Temperature.jpg</page_image>
+          <page_image>Center/center_monthly Air Temperature_pg2.jpg</page_image>
+          <graph>Center/center_monthly Air Temperature_graph.jpg</graph>
+          <web_page>Center/center_monthly Air Temperature.htm</web_page>
+        </report>
+        <report name="center_monthly Solar Radiation">
+          <page_image>Center/center_monthly Solar Radiation.jpg</page_image>
+          <page_image>Center/center_monthly Solar Radiation_pg2.jpg</page_image>
+          <graph>Center/center_monthly Solar Radiation_graph.jpg</graph>
+          <web_page>Center/center_monthly Solar Radiation.htm</web_page>
+        </report>
+        <report name="center_monthly Relative Humidity">
+          <page_image>Center/center_monthly Relative Humidity.jpg</page_image>
+          <page_image>Center/center_monthly Relative Humidity_pg2.jpg</page_image>
+          <graph>Center/center_monthly Relative Humidity_graph.jpg</graph>
+          <web_page>Center/center_monthly Relative Humidity.htm</web_page>
+        </report>
+        <report name="center_monthly Rain Fall">
+          <page_image>Center/center_monthly Rain Fall.jpg</page_image>
+          <page_image>Center/center_monthly Rain Fall_pg2.jpg</page_image>
+          <graph>Center/center_monthly Rain Fall_graph.jpg</graph>
+          <web_page>Center/center_monthly Rain Fall.htm</web_page>
+        </report>
+        <report name="center_monthly Wind Speed">
+          <page_image>Center/center_monthly Wind Speed.jpg</page_image>
+          <page_image>Center/center_monthly Wind Speed_pg2.jpg</page_image>
+          <graph>Center/center_monthly Wind Speed_graph.jpg</graph>
+          <web_page>Center/center_monthly Wind Speed.htm</web_page>
+        </report>
+        <report name="center_monthly Wind Rose">
+          <page_image>Center/center_monthly Wind Rose.jpg</page_image>
+          <graph>Center/center_monthly Wind Rose_graph.jpg</graph>
+          <web_page>Center/center_monthly Wind Rose.htm</web_page>
+        </report>
+        <report name="center_monthly Evapotranspiration">
+          <page_image>Center/center_monthly Evapotranspiration.jpg</page_image>
+          <page_image>Center/center_monthly Evapotranspiration_pg2.jpg</page_image>
+          <graph>Center/center_monthly Evapotranspiration_graph.jpg</graph>
+          <web_page>Center/center_monthly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="center_monthly Crop Water Needs">
+          <page_image>Center/center_monthly Crop Water Needs.jpg</page_image>
+          <page_image>Center/center_monthly Crop Water Needs_pg2.jpg</page_image>
+          <graph>Center/center_monthly Crop Water Needs_graph.jpg</graph>
+          <web_page>Center/center_monthly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="center_monthly GDD">
+          <page_image>Center/center_monthly GDD.jpg</page_image>
+          <graph>Center/center_monthly GDD_graph.jpg</graph>
+          <web_page>Center/center_monthly GDD.htm</web_page>
+        </report>
+        <report name="center_monthly GDD2">
+          <page_image>Center/center_monthly GDD2.jpg</page_image>
+          <graph>Center/center_monthly GDD2_graph.jpg</graph>
+          <web_page>Center/center_monthly GDD2.htm</web_page>
+        </report>
+        <report name="center_monthly Dew Point">
+          <page_image>Center/center_monthly Dew Point.jpg</page_image>
+          <page_image>Center/center_monthly Dew Point_pg2.jpg</page_image>
+          <graph>Center/center_monthly Dew Point_graph.jpg</graph>
+          <web_page>Center/center_monthly Dew Point.htm</web_page>
+        </report>
+        <report name="center_monthly Chill Hours">
+          <page_image>Center/center_monthly Chill Hours.jpg</page_image>
+          <graph>Center/center_monthly Chill Hours_graph.jpg</graph>
+          <web_page>Center/center_monthly Chill Hours.htm</web_page>
+        </report>
+        <report name="center_monthly Wind Chill">
+          <page_image>Center/center_monthly Wind Chill.jpg</page_image>
+          <page_image>Center/center_monthly Wind Chill_pg2.jpg</page_image>
+          <graph>Center/center_monthly Wind Chill_graph.jpg</graph>
+          <web_page>Center/center_monthly Wind Chill.htm</web_page>
+        </report>
+        <report name="center_monthly Heat Index">
+          <page_image>Center/center_monthly Heat Index.jpg</page_image>
+          <page_image>Center/center_monthly Heat Index_pg2.jpg</page_image>
+          <graph>Center/center_monthly Heat Index_graph.jpg</graph>
+          <web_page>Center/center_monthly Heat Index.htm</web_page>
+        </report>
+      </reports>
+    </station>
+    <station name="Dragon_Ridge">
+      <reports>
+        <report name="Dragon_Ridge_weekly Battery Voltage">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Battery Voltage.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Battery Voltage_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Enclosure RH">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Enclosure RH.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Enclosure RH_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Air Temperature">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Air Temperature.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Air Temperature_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Air Temperature.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Solar Radiation">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Solar Radiation.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Solar Radiation_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Relative Humidity">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Relative Humidity.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Relative Humidity_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Rain Fall">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Rain Fall.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Rain Fall_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Rain Fall.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Wind Speed">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Wind Speed.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Wind Speed_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Wind Speed.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Wind Rose">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Wind Rose.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Wind Rose_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Wind Rose.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Evapotranspiration">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Evapotranspiration.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Evapotranspiration_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Crop Water Needs">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Crop Water Needs.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Crop Water Needs_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly GDD">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly GDD.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly GDD_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly GDD.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly GDD2">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly GDD2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly GDD2_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly GDD2.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Dew Point">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Dew Point.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Dew Point_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Dew Point.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Chill Hours">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Chill Hours.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Chill Hours_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Chill Hours.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Wind Chill">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Wind Chill.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Wind Chill_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Wind Chill.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_weekly Heat Index">
+          <page_image>Dragon_Ridge/Dragon_Ridge_weekly Heat Index.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_weekly Heat Index_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_weekly Heat Index.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Battery Voltage">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Battery Voltage.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Battery Voltage_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Battery Voltage_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Enclosure RH">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Enclosure RH.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Enclosure RH_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Enclosure RH_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Air Temperature">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Air Temperature.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Air Temperature_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Air Temperature_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Air Temperature.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Solar Radiation">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Solar Radiation.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Solar Radiation_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Solar Radiation_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Relative Humidity">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Relative Humidity.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Relative Humidity_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Relative Humidity_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Rain Fall">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Rain Fall.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Rain Fall_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Rain Fall_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Rain Fall.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Wind Speed">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Wind Speed.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Wind Speed_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Wind Speed_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Wind Speed.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Wind Rose">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Wind Rose.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Wind Rose_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Wind Rose.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Evapotranspiration">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Evapotranspiration.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Evapotranspiration_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Evapotranspiration_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Crop Water Needs">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Crop Water Needs.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Crop Water Needs_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Crop Water Needs_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly GDD">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly GDD.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly GDD_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly GDD.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly GDD2">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly GDD2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly GDD2_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly GDD2.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Dew Point">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Dew Point.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Dew Point_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Dew Point_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Dew Point.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Chill Hours">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Chill Hours.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Chill Hours_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Chill Hours.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Wind Chill">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Wind Chill.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Wind Chill_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Wind Chill_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Wind Chill.htm</web_page>
+        </report>
+        <report name="Dragon_Ridge_monthly Heat Index">
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Heat Index.jpg</page_image>
+          <page_image>Dragon_Ridge/Dragon_Ridge_monthly Heat Index_pg2.jpg</page_image>
+          <graph>Dragon_Ridge/Dragon_Ridge_monthly Heat Index_graph.jpg</graph>
+          <web_page>Dragon_Ridge/Dragon_Ridge_monthly Heat Index.htm</web_page>
+        </report>
+      </reports>
+    </station>
+    <station name="Red_Rock">
+      <reports>
+        <report name="Red_Rock_weekly Battery Voltage">
+          <page_image>Red_Rock/Red_Rock_weekly Battery Voltage.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Battery Voltage_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Enclosure RH">
+          <page_image>Red_Rock/Red_Rock_weekly Enclosure RH.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Enclosure RH_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Air Temperature">
+          <page_image>Red_Rock/Red_Rock_weekly Air Temperature.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Air Temperature_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Air Temperature.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Solar Radiation">
+          <page_image>Red_Rock/Red_Rock_weekly Solar Radiation.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Solar Radiation_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Relative Humidity">
+          <page_image>Red_Rock/Red_Rock_weekly Relative Humidity.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Relative Humidity_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Rain Fall">
+          <page_image>Red_Rock/Red_Rock_weekly Rain Fall.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Rain Fall_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Rain Fall.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Wind Speed">
+          <page_image>Red_Rock/Red_Rock_weekly Wind Speed.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Wind Speed_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Wind Speed.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Wind Rose">
+          <page_image>Red_Rock/Red_Rock_weekly Wind Rose.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Wind Rose_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Wind Rose.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Evapotranspiration">
+          <page_image>Red_Rock/Red_Rock_weekly Evapotranspiration.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Evapotranspiration_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Crop Water Needs">
+          <page_image>Red_Rock/Red_Rock_weekly Crop Water Needs.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Crop Water Needs_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly GDD">
+          <page_image>Red_Rock/Red_Rock_weekly GDD.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly GDD_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly GDD.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly GDD2">
+          <page_image>Red_Rock/Red_Rock_weekly GDD2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly GDD2_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly GDD2.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Dew Point">
+          <page_image>Red_Rock/Red_Rock_weekly Dew Point.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Dew Point_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Dew Point.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Chill Hours">
+          <page_image>Red_Rock/Red_Rock_weekly Chill Hours.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Chill Hours_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Chill Hours.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Wind Chill">
+          <page_image>Red_Rock/Red_Rock_weekly Wind Chill.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Wind Chill_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Wind Chill.htm</web_page>
+        </report>
+        <report name="Red_Rock_weekly Heat Index">
+          <page_image>Red_Rock/Red_Rock_weekly Heat Index.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_weekly Heat Index_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_weekly Heat Index.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Battery Voltage">
+          <page_image>Red_Rock/Red_Rock_monthly Battery Voltage.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Battery Voltage_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Battery Voltage_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Enclosure RH">
+          <page_image>Red_Rock/Red_Rock_monthly Enclosure RH.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Enclosure RH_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Enclosure RH_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Air Temperature">
+          <page_image>Red_Rock/Red_Rock_monthly Air Temperature.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Air Temperature_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Air Temperature_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Air Temperature.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Solar Radiation">
+          <page_image>Red_Rock/Red_Rock_monthly Solar Radiation.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Solar Radiation_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Solar Radiation_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Relative Humidity">
+          <page_image>Red_Rock/Red_Rock_monthly Relative Humidity.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Relative Humidity_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Relative Humidity_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Rain Fall">
+          <page_image>Red_Rock/Red_Rock_monthly Rain Fall.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Rain Fall_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Rain Fall_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Rain Fall.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Wind Speed">
+          <page_image>Red_Rock/Red_Rock_monthly Wind Speed.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Wind Speed_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Wind Speed_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Wind Speed.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Wind Rose">
+          <page_image>Red_Rock/Red_Rock_monthly Wind Rose.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Wind Rose_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Wind Rose.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Evapotranspiration">
+          <page_image>Red_Rock/Red_Rock_monthly Evapotranspiration.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Evapotranspiration_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Evapotranspiration_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Crop Water Needs">
+          <page_image>Red_Rock/Red_Rock_monthly Crop Water Needs.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Crop Water Needs_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Crop Water Needs_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly GDD">
+          <page_image>Red_Rock/Red_Rock_monthly GDD.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly GDD_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly GDD.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly GDD2">
+          <page_image>Red_Rock/Red_Rock_monthly GDD2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly GDD2_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly GDD2.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Dew Point">
+          <page_image>Red_Rock/Red_Rock_monthly Dew Point.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Dew Point_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Dew Point_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Dew Point.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Chill Hours">
+          <page_image>Red_Rock/Red_Rock_monthly Chill Hours.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Chill Hours_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Chill Hours.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Wind Chill">
+          <page_image>Red_Rock/Red_Rock_monthly Wind Chill.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Wind Chill_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Wind Chill_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Wind Chill.htm</web_page>
+        </report>
+        <report name="Red_Rock_monthly Heat Index">
+          <page_image>Red_Rock/Red_Rock_monthly Heat Index.jpg</page_image>
+          <page_image>Red_Rock/Red_Rock_monthly Heat Index_pg2.jpg</page_image>
+          <graph>Red_Rock/Red_Rock_monthly Heat Index_graph.jpg</graph>
+          <web_page>Red_Rock/Red_Rock_monthly Heat Index.htm</web_page>
+        </report>
+      </reports>
+    </station>
+    <station name="Sunset">
+      <reports>
+        <report name="Sunset_weekly Battery Voltage">
+          <page_image>Sunset/Sunset_weekly Battery Voltage.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Battery Voltage_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Enclosure RH">
+          <page_image>Sunset/Sunset_weekly Enclosure RH.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Enclosure RH_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Air Temperature">
+          <page_image>Sunset/Sunset_weekly Air Temperature.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Air Temperature_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Air Temperature.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Solar Radiation">
+          <page_image>Sunset/Sunset_weekly Solar Radiation.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Solar Radiation_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Relative Humidity">
+          <page_image>Sunset/Sunset_weekly Relative Humidity.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Relative Humidity_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Rain Fall">
+          <page_image>Sunset/Sunset_weekly Rain Fall.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Rain Fall_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Rain Fall.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Wind Speed">
+          <page_image>Sunset/Sunset_weekly Wind Speed.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Wind Speed_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Wind Speed.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Wind Rose">
+          <page_image>Sunset/Sunset_weekly Wind Rose.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Wind Rose_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Wind Rose.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Evapotranspiration">
+          <page_image>Sunset/Sunset_weekly Evapotranspiration.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Evapotranspiration_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Crop Water Needs">
+          <page_image>Sunset/Sunset_weekly Crop Water Needs.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Crop Water Needs_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Sunset_weekly GDD">
+          <page_image>Sunset/Sunset_weekly GDD.jpg</page_image>
+          <graph>Sunset/Sunset_weekly GDD_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly GDD.htm</web_page>
+        </report>
+        <report name="Sunset_weekly GDD2">
+          <page_image>Sunset/Sunset_weekly GDD2.jpg</page_image>
+          <graph>Sunset/Sunset_weekly GDD2_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly GDD2.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Dew Point">
+          <page_image>Sunset/Sunset_weekly Dew Point.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Dew Point_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Dew Point.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Chill Hours">
+          <page_image>Sunset/Sunset_weekly Chill Hours.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Chill Hours_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Chill Hours.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Wind Chill">
+          <page_image>Sunset/Sunset_weekly Wind Chill.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Wind Chill_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Wind Chill.htm</web_page>
+        </report>
+        <report name="Sunset_weekly Heat Index">
+          <page_image>Sunset/Sunset_weekly Heat Index.jpg</page_image>
+          <graph>Sunset/Sunset_weekly Heat Index_graph.jpg</graph>
+          <web_page>Sunset/Sunset_weekly Heat Index.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Battery Voltage">
+          <page_image>Sunset/Sunset_monthly Battery Voltage.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Battery Voltage_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Battery Voltage_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Battery Voltage.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Enclosure RH">
+          <page_image>Sunset/Sunset_monthly Enclosure RH.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Enclosure RH_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Enclosure RH_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Enclosure RH.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Air Temperature">
+          <page_image>Sunset/Sunset_monthly Air Temperature.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Air Temperature_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Air Temperature_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Air Temperature.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Solar Radiation">
+          <page_image>Sunset/Sunset_monthly Solar Radiation.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Solar Radiation_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Solar Radiation_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Solar Radiation.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Relative Humidity">
+          <page_image>Sunset/Sunset_monthly Relative Humidity.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Relative Humidity_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Relative Humidity_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Relative Humidity.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Rain Fall">
+          <page_image>Sunset/Sunset_monthly Rain Fall.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Rain Fall_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Rain Fall_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Rain Fall.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Wind Speed">
+          <page_image>Sunset/Sunset_monthly Wind Speed.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Wind Speed_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Wind Speed_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Wind Speed.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Wind Rose">
+          <page_image>Sunset/Sunset_monthly Wind Rose.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Wind Rose_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Wind Rose.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Evapotranspiration">
+          <page_image>Sunset/Sunset_monthly Evapotranspiration.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Evapotranspiration_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Evapotranspiration_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Evapotranspiration.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Crop Water Needs">
+          <page_image>Sunset/Sunset_monthly Crop Water Needs.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Crop Water Needs_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Crop Water Needs_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Crop Water Needs.htm</web_page>
+        </report>
+        <report name="Sunset_monthly GDD">
+          <page_image>Sunset/Sunset_monthly GDD.jpg</page_image>
+          <graph>Sunset/Sunset_monthly GDD_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly GDD.htm</web_page>
+        </report>
+        <report name="Sunset_monthly GDD2">
+          <page_image>Sunset/Sunset_monthly GDD2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly GDD2_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly GDD2.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Dew Point">
+          <page_image>Sunset/Sunset_monthly Dew Point.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Dew Point_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Dew Point_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Dew Point.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Chill Hours">
+          <page_image>Sunset/Sunset_monthly Chill Hours.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Chill Hours_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Chill Hours.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Wind Chill">
+          <page_image>Sunset/Sunset_monthly Wind Chill.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Wind Chill_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Wind Chill_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Wind Chill.htm</web_page>
+        </report>
+        <report name="Sunset_monthly Heat Index">
+          <page_image>Sunset/Sunset_monthly Heat Index.jpg</page_image>
+          <page_image>Sunset/Sunset_monthly Heat Index_pg2.jpg</page_image>
+          <graph>Sunset/Sunset_monthly Heat Index_graph.jpg</graph>
+          <web_page>Sunset/Sunset_monthly Heat Index.htm</web_page>
+        </report>
+      </reports>
+    </station>
+  </stations>
+</webdata>
